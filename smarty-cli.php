@@ -1,3 +1,4 @@
+#!/usr/bin/php
 <?php
 /*
  * Copyright (C) 2013 Jost Baron <j.baron@netzkoenig.de>

@@ -2,5 +2,5 @@
 # Configuration file for the smarty CLI
 
 smarty: {
-	root: /home/jost/Desktop/Projekte/Smarty-3.1.13/libs
+	root: /path/to/smarty/lib/dir
 }
